@@ -8,8 +8,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=burakcihan61"  />
 </div>
 
-#### 
-💫 About Me:
+###
+# 💫 About Me:
 Hi there 👋<br>I'm Burak Cihan<br>Software & Web Developer 👨🏽‍💻
 
 ##  🌐 Socials:
